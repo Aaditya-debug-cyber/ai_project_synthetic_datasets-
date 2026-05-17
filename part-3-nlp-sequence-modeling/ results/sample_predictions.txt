@@ -1,0 +1,47 @@
+Sample Predictions – Logistic Regression + TF-IDF
+======================================================================
+✓ Actual: positive | Predicted: positive
+  Message: I like the new payment and it is easy to use. My ticket number is 65556.
+
+✓ Actual: positive | Predicted: positive
+  Message: Great service and clear communication from the support team.
+
+✓ Actual: negative | Predicted: negative
+  Message: My refund is still pending and this experience is frustrating.
+
+✓ Actual: negative | Predicted: negative
+  Message: The app crashes whenever I try to use analytics.
+
+✓ Actual: positive | Predicted: positive
+  Message: The response from the team was helpful and professional.
+
+✓ Actual: neutral  | Predicted: neutral 
+  Message: Can someone explain the difference between the plans?
+
+✓ Actual: positive | Predicted: positive
+  Message: I like the new video call and it is easy to use.
+
+✓ Actual: positive | Predicted: positive
+  Message: I like the new report download and it is easy to use.
+
+✓ Actual: neutral  | Predicted: neutral 
+  Message: Can someone explain the difference between the plans?
+
+✓ Actual: neutral  | Predicted: neutral 
+  Message: I want to understand the warranty terms for this product.
+
+✓ Actual: positive | Predicted: positive
+  Message: The refund process was fast and convenient. I appreciate the quick response.
+
+✓ Actual: positive | Predicted: positive
+  Message: I am satisfied with the plan and would recommend it to others. My ticket number 
+
+✓ Actual: neutral  | Predicted: neutral 
+  Message: I need information about the payment process. Please respond as soon as possible
+
+✓ Actual: neutral  | Predicted: neutral 
+  Message: Can you confirm whether my ticket has been assigned? My ticket number is 65194.
+
+✓ Actual: negative | Predicted: negative
+  Message: Billing is incorrect and I was charged twice this month.
+
